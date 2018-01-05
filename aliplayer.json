@@ -1,6 +1,6 @@
 {
     versionName: "bbmc1bbmc",
-    versionDes: "gxsm很好很强大,一定要下载哦gxsm",
-    versionCode: "bbh1bbh",
+    versionDes: "gxsm修正了部分BUG:修正了播放器进度条同步gxsm",
+    versionCode: "bbh2bbh",
     downloadUrl: "xzdzhttps://raw.githubusercontent.com/aiai520/AliplayerUpdate/master/ALiPlayer.apkxzdz"
 }
